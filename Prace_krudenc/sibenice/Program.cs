@@ -33,7 +33,6 @@
                         }
                     }
                     Console.WriteLine("Uhodl jsi písmeno!");
-                    Console.WriteLine($"Zbývá ti {pokusy} pokusů.");
 
                 }
                 else
